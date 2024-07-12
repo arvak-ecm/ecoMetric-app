@@ -1,0 +1,34 @@
+{
+  "es": {
+    "drawer": {
+      "home": {
+        "label": "Inicio",
+        "title": "Inicio"
+      },
+      "meter-reading": {
+        "label": "Lectura de Contador",
+        "title": "Lectura de Contador"
+      },
+      "meter-type": {
+        "label": "Tipo de Contador",
+        "title": "Tipo de Contador"
+      },
+      "meter": {
+        "label": "Contadores",
+        "title": "Contadores"
+      },
+      "company-type": {
+        "label": "Tipos de Empresa",
+        "title": "Tipos de Empresa"
+      },
+      "companies": {
+        "label": "Empresas",
+        "title": "Empresas"
+      },
+      "notFound": {
+        "label": "No encontrado",
+        "title": "No encontrado"
+      }
+    }
+  }
+}

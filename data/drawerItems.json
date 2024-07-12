@@ -1,0 +1,65 @@
+[
+  {
+    "name": "(home)",
+    "icon": "home",
+    "options": {
+      "label": "drawer.home.label",
+      "title": "drawer.home.title",
+      "headerShown": true
+    }
+  },
+  {
+    "name": "(meter-reading)",
+    "icon": "reader-outline",
+    "options": {
+      "label": "drawer.meter-reading.label",
+      "title": "drawer.meter-reading.title",
+      "headerShown": true
+    }
+  },
+  {
+    "name": "(meter-type)",
+    "icon": "speedometer",
+    "options": {
+      "label": "drawer.meter-type.label",
+      "title": "drawer.meter-type.title",
+      "headerShown": true
+    }
+  },
+  {
+    "name": "(meter)",
+    "icon": "speedometer-outline",
+    "options": {
+      "label": "drawer.meter.label",
+      "title": "drawer.meter.title",
+      "headerShown": true
+    }
+  },
+  {
+    "name": "(company-type)",
+    "icon": "balloon-sharp",
+    "options": {
+      "label": "drawer.company-type.label",
+      "title": "drawer.company-type.title",
+      "headerShown": true
+    }
+  },
+  {
+    "name": "(companies)",
+    "icon": "bag",
+    "options": {
+      "label": "drawer.companies.label",
+      "title": "drawer.companies.title",
+      "headerShown": true
+    }
+  },
+  {
+    "name": "+not-found",
+    "icon": "alert-circle",
+    "options": {
+      "label": "drawer.+not-found.label",
+      "title": "drawer.+not-found.title",
+      "headerShown": true
+    }
+  }
+]
